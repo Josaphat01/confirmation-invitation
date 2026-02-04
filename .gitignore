@@ -1,0 +1,7 @@
+# Node, Python, OS defaults - keep minimal for static site
+node_modules/
+__pycache__/
+.DS_Store
+
+# Git
+.env
